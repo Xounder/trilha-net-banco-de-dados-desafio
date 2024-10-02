@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
+## Respostas
+
+As respostas do que foi proposto está no [Answer-SQL](Answer-SQL.sql)
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
 
